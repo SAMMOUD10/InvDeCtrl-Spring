@@ -22,7 +22,7 @@ leurs implémentations</span>
 <i>1.1/ Interface <b>IntDao</b> :</i>
 <br/>
 <br/>
-![intdao](https://user-images.githubusercontent.com/102219821/162546483-7b5f8f7a-287c-45a3-9a90-6c7faa0dd0a6.png)
+![intdao](https://user-images.githubusercontent.com/102219821/162547823-e585cbba-9fab-4f68-9ab2-2fcf0ccdbb2f.png)
 <br/>
 <br/>
 <p><b>NB:</b> Avant d'aller plus loin dans ce rapprot, il fallait de dire que, il exist deux façons différentes pour appliquer le framework :
