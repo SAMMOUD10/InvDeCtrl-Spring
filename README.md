@@ -113,9 +113,23 @@ classes.</span>
 ![mvn cmd](https://user-images.githubusercontent.com/102219821/162547757-f858e877-4c9c-4cd9-b196-e6a8310c0f4a.png)
 
 <br/>
+<h4>5/ Execution : Quelques captures d'écrans d'execution de l'application </h4>
+<i>5.1/ Version <b>Capteurs</b> :</i>
 <br/>
 
-<h4>5/ Execution : Quelques captures d'écrans d'execution de l'application </h4>
+![vcapteurs](https://user-images.githubusercontent.com/102219821/173118762-0e8278e6-44ce-4b36-92e2-b1fc2b06c4d3.png)
+
+<br/>
+<i>5.2/ Version <b>Base de données</b> :</i>
+<br/>
+
+![vbd](https://user-images.githubusercontent.com/102219821/173118896-b6852cd3-4029-4b6e-96e4-bb83b5fc9e3c.png)
+
+<br/>
+<i>5.2/ Version <b>Web services</b> :</i>
+<br/>
+
+![vwebservices](https://user-images.githubusercontent.com/102219821/173118947-8a73f682-3f54-42a8-b2ef-442173a03f1b.png)
 
 
 
